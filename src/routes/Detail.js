@@ -1,1 +1,2 @@
-export default ()=>"Detail"
+export default() => "Detail"
+  
